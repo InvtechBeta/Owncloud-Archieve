@@ -1,0 +1,3 @@
+[submodule "Cron-Auto-Push"]
+	path = Cron-Auto-Push
+	url = https://github.com/tommytim0515/Cron-Auto-Push.git
