@@ -1,2 +1,22 @@
 -------ADD COMMENTS-------
 -------COMMIT COMMENTS-------
+[master 31e4b09] Auto-commit at Tue-Jan--7-20:38:01-HKT-2020
+ Committer: root <root@tommy@invtechbeta.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 6 insertions(+)
+ create mode 100644 .gitmodules
+ create mode 160000 Cron-Auto-Push
+ create mode 100644 log/Tue-Jan--7-20:38:01-HKT-2020.log
+-------PUSH COMMENTS-------
+Branch 'master' set up to track remote branch 'master' from 'https://tommytim0515:ttommy.tech0328@github.com/InvtechBeta/Owncloud-Archieve.git'.
